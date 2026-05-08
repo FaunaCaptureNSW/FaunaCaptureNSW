@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# NSW Fauna Camera Trap System
+
+A structured ecological data system for managing camera trap deployments across NSW bushland.
+
+## Features
+- Camera trap folder separation by ID
+- NSW fauna master species database
+- Automated threatened species flagging
+- QGIS-ready export structure
+
+## Folder Structure
+- camera_traps/ → raw images + detections
+- species_database/ → NSW fauna + threatened lists
+- analysis/ → flagged species outputs
+- scripts/ → processing tools
+- outputs/ → GIS + maps
+
+## Purpose
+Designed for ecological consultants and field ecologists working in NSW environments.
